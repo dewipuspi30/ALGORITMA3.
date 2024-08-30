@@ -34,4 +34,4 @@ echo "$a ** $b = $c";
 echo "<hr>";
 
 
-echo "<br><br><strong>by dewi puspita sari";
+ echo"<br><br><strong>by dewi puspita sari";
