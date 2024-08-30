@@ -7,5 +7,4 @@ if ($status !== false) {
 } else {
     echo "Penulisan file gagal.";
 }
-
 echo"<br><br><strong>by dewi puspita sari";
