@@ -18,5 +18,4 @@ $array = array(
 var_dump($array);
 
 print "<p>";
-
 echo "<br><br><strong>by dewi puspita sari";
